@@ -36,7 +36,7 @@
 
 ```sh
 git clone https://github.com/shashank1210/e-commerce.git
-cd smart-ecommerce
+cd e-commerce
 ```
 
 The project has two main folders:
@@ -70,8 +70,8 @@ You will also need accounts for:
 Open your terminal and run:
 
 ```sh
-git clone https://github.com/your-username/smart-ecommerce.git
-cd smart-ecommerce
+git clone https://github.com/shashank1210/e-commerce.git
+cd e-commerce
 ```
 
 ---
