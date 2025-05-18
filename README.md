@@ -35,7 +35,7 @@
 ## 4. Cloning the Project
 
 ```sh
-git clone https://github.com/your-username/smart-ecommerce.git
+git clone https://github.com/shashank1210/e-commerce.git
 cd smart-ecommerce
 ```
 
